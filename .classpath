@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_111"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/aii_map_api.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.cpa.svc.filter.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.ifc.facade.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.ifc.filter.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.lib.facade.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.lib.filter.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.lib.mod.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.svc.facade.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.svc.filter.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.mapping.api.filter.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.mapping.lib.facade.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.sec.lib.filter.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.xi.mapping.tool.lib.filter.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
